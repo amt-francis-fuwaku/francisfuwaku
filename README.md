@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FUWAKU FRACNIS</h1>
-<h3 align="center">An enthused full stack developer trainee @Amalitechh</h3>
+<h3 align="center">An enthused Front End developer trainee @Amalitechh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francisfuwaku" alt="francisfuwaku" /></a> </p>
 
