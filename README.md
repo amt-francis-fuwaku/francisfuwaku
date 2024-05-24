@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/francisfuwaku](https://github.com/francisfuwaku)
 
-- 📫 How to reach me **franics.fuwaku@amalitech.org**
+- 📫 How to reach me francis.fuwaku@gmail.com**
 
 - ⚡ Fun fact **simple but fun to be with**
 
